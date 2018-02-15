@@ -1,0 +1,17 @@
+#sectionTable {
+    margin-top: 50px;
+}
+
+#currentDeets {
+    position: relative;
+    left: 650px;
+    bottom: 100px;
+}
+
+#personTable {
+    position: relative;
+}
+
+#sectionTableDiv {
+    position: relative;
+}
